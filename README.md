@@ -2,7 +2,7 @@
 YORKU FULL STACK WEB DEVELOPER FINAL PROJECT.
 
 # Application Name:
-## **Friends Tech Support**
+**Friends Tech Support**
 
 ## User Stories
 #### Customer:
