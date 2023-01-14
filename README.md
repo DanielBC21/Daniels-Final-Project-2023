@@ -1,8 +1,8 @@
 # Daniels-Final-Project-2023
 YORKU FULL STACK WEB DEVELOPER FINAL PROJECT.
 
-# Project Name:
-## Friends Tech Support
+# Application Name:
+## **Friends Tech Support**
 
 ## User Stories
 #### Customer:
