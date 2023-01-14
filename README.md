@@ -8,7 +8,7 @@ YORKU FULL STACK WEB DEVELOPER FINAL PROJECT.
 #### Customer:
 As a tech device owner, I want to be able to find a place and a solution, so that I can fix my device. 
 #### Admind: 
-As a service provider, I want to be able to add contact and company information, so that more users wish to hire me and use my services.
+As a service provider, I want to be able to add contacts and companies informations, so that more users can use their services and pay the fees.
 
 ## Figma Design Link:
 
